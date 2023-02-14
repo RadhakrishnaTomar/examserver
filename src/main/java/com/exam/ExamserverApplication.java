@@ -13,7 +13,7 @@ import com.exam.model.User;
 import com.exam.model.UserRole;
 import com.exam.service.UserService;
 
-@SpringBootApplication
+@SpringBootApplication 
 public class ExamserverApplication implements CommandLineRunner{
 
 	@Autowired
